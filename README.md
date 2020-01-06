@@ -18,8 +18,8 @@ Directory | Description
 * Extract the contents of the ZIP file to any folder on your computer. All the examples are located in the **Examples** folder.
 * You can run/execute these examples with any IDE of your choice.
 * Open the project in your selected IDE.
-* Open the example file that you want to run.
-* Run the file in your IDE (method may vary depending on the IDE you use).
+* Open **main.java**, all the examples are called from here.
+* Uncomment the examples you want to run from within the project.
 * The resources folder in The Examples/src/main folder contains input files used in the examples. It is mandatory that you download this folder along with the examples project.
 
 Please find more details on how to run the examples [here](https://docs.aspose.com/display/omrjava/How+to+Run+the+Examples).
