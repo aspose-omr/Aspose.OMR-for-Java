@@ -11,7 +11,7 @@ url: /java/
 
 **![Aspose.OMR for Java Product Logo](home_1.png)**
 
-**Welcome to the Aspose.OMR for Java...**
+**Welcome to the Aspose.OMR for Java....**
 
 Aspose.OMR for Java is an API to recognize optical marks from OMR digitized sheet images. It can be used to recognize optical marks in a variety of image formats like BMP, JPG, TIF, TIFF, GIF. The API allows capturing human-marked data from document forms such as surveys, questionnaires, multiple-choice examination papers, and other tests. With this solution, it is possible to recognize scanned images and even photos with high accuracy. Recognition is based on a template markup which contains a graphical mapping of the elements to be recognized from the scanned images.
 
