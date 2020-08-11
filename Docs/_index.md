@@ -3,6 +3,7 @@ title: Aspose.OMR for Java
 type: docs
 weight: 20
 url: /java/
+is_root: true
 ---
 
 ## Aspose.OMR for Java
