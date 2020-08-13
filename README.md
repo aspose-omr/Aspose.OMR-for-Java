@@ -18,7 +18,7 @@ Directory | Description
 - Ability to process rotated and perspective (side viewed) images.
 - Recognize data from tests, exams, questionnaires, surveys etc.
 - High accuracy rate & ability to export the results in `CSV` and `JSON` file format.
-- [Create OMR templates](https://docs.aspose.com/display/omrjava/Create+OMR+Template) from text markup.
+- [Create OMR templates](https://docs.aspose.com/omr/java/create-omr-template/) from text markup.
 
 ## Save OMR Results As
 
@@ -37,7 +37,7 @@ JPEG, PNG, GIF, TIFF, BMP
 
 ## Get Started with Aspose.OMR for Java
 
-Aspose hosts all Java APIs at the [Aspose Repository](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr). You can easily use Aspose.OMR for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.OMR for Java from Maven Repository](https://docs.aspose.com/display/omrjava/Installation#Installation-InstallingAspose.OMRforJavafromMavenRepository) documentation page.
+Aspose hosts all Java APIs at the [Aspose Repository](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr). You can easily use Aspose.OMR for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.OMR for Java from Maven Repository](https://docs.aspose.com/omr/java/installation/) documentation page.
 
 ## Perform OMR operation on Images using Java
 
@@ -76,4 +76,4 @@ for (int i = 0; i < UserImages.length; i++) {
 }
 ```
 
-[Product Page](https://products.aspose.com/omr/java) | [Docs](https://docs.aspose.com/display/omrjava/Home) | [Demos](https://products.aspose.app/omr/family) | [API Reference](https://apireference.aspose.com/java/omr) | [Examples](https://github.com/aspose-omr/Aspose.OMR-for-Java) | [Blog](https://blog.aspose.com/category/omr/) | [Free Support](https://forum.aspose.com/c/omr) | [Temporary License](https://purchase.aspose.com/temporary-license)
+[Home](https://www.aspose.com/) | [Product Page](https://products.aspose.com/omr/java) | [Docs](https://docs.aspose.com/omr/java/) | [Demos](https://products.aspose.app/omr/family) | [API Reference](https://apireference.aspose.com/java/omr) | [Examples](https://github.com/aspose-omr/Aspose.OMR-for-Java) | [Blog](https://blog.aspose.com/category/omr/) | [Free Support](https://forum.aspose.com/c/omr) | [Temporary License](https://purchase.aspose.com/temporary-license)
